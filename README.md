@@ -45,7 +45,7 @@ This project is licenced under the [MIT Licence](https://opensource.org/license/
 
 ## About Me
 
-I am **Delano Ronald Togbé** a Data Scientist expanding ,y skills in Data Engeneering and MLOps. Highly motivated to use statistics to combine information from various data sources, evaluate and develop solution options to make current and future decisions.
+I am **Delano Ronald Togbé** a Data Scientist expanding my skills in Data Engeneering and MLOps. Highly motivated to use statistics to combine information from various data sources, evaluate and develop solution options to make current and future decisions.
 
 ## Acknowledgment
 We sincerly thanks **Baraa Khatib Salkini** also known as **Data with Baraa** for his guidance step by step throughout this project.
